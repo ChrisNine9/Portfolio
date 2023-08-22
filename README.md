@@ -6,7 +6,7 @@ Pontos Positivos:
 
 - Amo Organização: Gente, sério, eu sou meio obcecado por organização. 🗂️💼 Não tem jeito, eu curto tudo bem arrumadinho e planejado. Isso meio que me ajuda a manter as coisas sob controle e também dá uma sensação de tranquilidade. Afinal, quando as coisas estão organizadas, a vida parece mais tranquila, né? 🧘‍♂️
 
-- Códigos e Melhorias Técnicas: Cara, se tem uma coisa que eu amo fazer é pegar um código e reescrevê-lo, melhorá-lo, sei lá. 🖥️💡Às vezes parece que tô brincando de quebra-cabeça, mas é incrível ver como pequenas mudanças podem deixar tudo mais eficiente e bonito. Isso meio que me faz sentir que tô sempre evoluindo e aprendendo coisas novas. 🚀🤓
+- Códigos e Melhorias Técnicas: Cara, se tem uma coisa que eu amo fazer é pegar um código e reescrevê-lo, melhorá-lo, sei lá. 🖥️💡Às vezes parece que tô brincando de quebra-cabeça, mas é incrível ver como pequenas mudanças podem deixar tudo mais eficiente e bonito. Isso meio que me faz sentir que tô sempre evoluindo e aprendendo coisas novas. 🚀.
 
 -----
 Pontos Negativos:
@@ -28,9 +28,8 @@ Então é isso, galera! É importante conhecer tanto as partes boas quanto as pa
 |NoSQL|❌ ||
 | Git|❌ |
 
-🚀 Construindo Minha Própria Carreira: Transformando Sonhos em Realidade 🌟
-
-E aí pessoal, beleza? Hoje quero falar sobre uma das jornadas mais emocionantes que já trilhei: a criação da minha própria carreira. Sabe, no vasto universo profissional, eu sou como aquela estrela que brilha com um monte de potencial e sonhos! 💼✨
+-----------
+# Construindo Minha Própria Carreira: Transformando Sonhos em Realidade 🌟
 
 🎯 Definindo Minhas Metas: Como se fosse um projeto de arquitetura, comecei a minha jornada com metas bem claras. Cada conquista, cada desafio vencido, é como um tijolinho que vai construindo a visão do meu futuro profissional.
 
@@ -46,4 +45,4 @@ E aí pessoal, beleza? Hoje quero falar sobre uma das jornadas mais emocionantes
 
 🌐 Explorando Novos Horizontes: À medida que a minha carreira vai tomando forma, o mundo se torna meu playground. Oportunidades internacionais são como aquelas janelas que abrem pra um monte de possibilidades incríveis.
 
-Então, galera, lembrem sempre que a minha carreira é um projeto que eu tô construindo com paixão, propósito e muita vontade de crescer! Cada desafio, cada vitória, tá moldando essa trajetória que é só minha. Vamos com tudo! 🌆🌠🌈
+Então, galera, lembrem sempre que a minha carreira é um projeto que eu tô construindo com paixão, propósito e muita vontade de crescer! Cada desafio, cada vitória, tá moldando essa trajetória que é só minha. Vamos com tudo! 🌆🌠
